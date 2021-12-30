@@ -75,7 +75,7 @@ Route::prefix('admin')->middleware('theme:dashboard')->name('admin.')->group(fun
 Route::prefix('student')->middleware('theme:dashboard')->name('student.')->group(function(){
     
 
-    Route::middleware(['auth:web','verified'])->group(function(){    
+    Route::middleware(['auth:web'])->group(function(){    
         Route::get('/dashboard',[StudentOperation::class,'dashboard']);
    
         Route::get('/exam',[StudentOperation::class,'exam']);

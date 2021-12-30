@@ -73,6 +73,7 @@ Route::post('/email/verification-notification', [EmailVerificationNotificationCo
 
 
 
+
 Route::get('/confirm-password', [ConfirmablePasswordController::class, 'show'])
                 ->middleware('auth')
                 ->name('password.confirm');
