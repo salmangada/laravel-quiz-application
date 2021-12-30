@@ -79,9 +79,15 @@ This project is open for contributions so Pull requests and Issues are welcome.
 
 ## Admin side
 
+![image](https://user-images.githubusercontent.com/70872374/147752562-9648c490-8a0e-4376-b555-5cec9cf6ee57.png)
+![image](https://user-images.githubusercontent.com/70872374/147752630-a807a527-ab18-4b0a-885b-90bab9dd3a42.png)
+
 
 
 ## Student side
+
+![image](https://user-images.githubusercontent.com/70872374/147752771-66b63a55-69bb-41d2-93df-138991287b67.png)
+![image](https://user-images.githubusercontent.com/70872374/147752807-4fb59934-f1f7-4be0-8a10-a150f175dd36.png)
 
 
 
