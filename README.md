@@ -12,7 +12,7 @@
 # Demo
 Check the following demo project.
 
-Demo URL: https://quiz-exam-application.herokuapp.com/
+**[View demo](https://quiz-exam-application.herokuapp.com/)**
 
 
 ```
